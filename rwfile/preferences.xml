@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="pref_key_weather_setting" value="false" />
+    <boolean name="pref_key_time_setting" value="false" />
+    <boolean name="pref_key_welcome_setting" value="false" />
+    <boolean name="pref_key_date_setting" value="false" />
+    <boolean name="pref_key_premises_name_setting" value="false" />
+    <boolean name="pref_key_guest_name_setting" value="false" />
+</map>
